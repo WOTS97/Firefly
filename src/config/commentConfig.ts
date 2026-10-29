@@ -54,8 +54,9 @@ export const commentConfig: CommentConfig = {
 	//giscus评论系统配置
 	giscus: {
 		// 设置 Giscus 评论系统仓库
-		repo: "CuteLeaf/Firefly",
+		repo: "WOTS97/Firefly",
 		// 设置 Giscus 评论系统仓库ID
+		// 注意：启用评论前需到 https://giscus.app 用你自己的仓库重新生成 repoId 与 categoryId
 		repoId: "R_kgD2gfdFGd",
 		// 设置 Giscus 评论系统分类
 		category: "General",
